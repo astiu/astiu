@@ -3,6 +3,10 @@
 [<img align="left" alt="S#" width="40px"
 src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />]
 
+### My knowledge
+-Basic of C#
+-Photoshop
+
 <!--
 **astiu/astiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
