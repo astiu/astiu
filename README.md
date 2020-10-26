@@ -1,7 +1,7 @@
 ### Hi there, I'm Astiu 👋
 
-[<img align="left" alt="S#" width="40px"
-src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />]
+<img align="left" alt="S#" width="40px"
+src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png" />
 
 
 ### My knowledge
