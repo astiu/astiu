@@ -6,7 +6,7 @@ src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-la
 <br>
 <br>
 
-### My bedge
+### My badge
 <img align="left" alt="CodeWars" width="350px"
 src="https://www.codewars.com/users/astiu/badges/large" />
 
